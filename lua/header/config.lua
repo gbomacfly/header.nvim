@@ -21,7 +21,7 @@ M.constants = {
     date_created = "Date created:",
     author = "Author:",
     project = "Project:",
-    date_modified = "Date modified:",
+    date_modified = "Last modified:",
 }
 
 function M.read_config_file()
